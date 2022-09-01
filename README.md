@@ -1,23 +1,19 @@
-# About
+# Shumpei Urabe (yaminoma)
 
-I'm a Shumpei Urabe.
-I'm a multimedia expert and I'm familiar with low-level graphics and audio.
-I'm working on an OTT project at a TV station in Japan, and also working in research and development for some VOD service.
+[![website](https://img.shields.io/badge/Website-www.meteor.ne.jp-blue?style=flat-square)](https://www.meteor.ne.jp)
 
-# Skills
-- Codec
-  - H.264/AVC, H.265/HEVC, H.266/VVC
-  - VP8, VP9, AV1
-- Mobile
-  - Android(MediaCodec)
-  - iOS(VideoToolbox, AudioToolbox, AVFoundation)
-- Graphics
-  - OpenGL ES
-  - Metal
-  - Vulkan
+Hi, I'm Shumpei Urabe. I'm a multimedia specialist, specializing in video coding and acoustic signal processing.
+I have no programming language preference, but I'm interested in multithreaded processing and memory management.
+I usually work for a Japanese broadcasting company developing distribution systems.
+I like to challenge myself to do things that no one has tried before!
 
-Besides, I can do various things.
 
-# Contact
-- [urabe@meteor.ne.jp](mailto:urabe@meteor.ne.jp)
-- I don't accept contact via SNS.
+
+### Get in touch
+
+Reach me at:
+
+- E-mail: <urabe@meteor.ne.jp>
+- Matrix: [@s_urabe:matrix.org](matrix:u/s_urabe:matrix.org)
+- Mastodon: [@s_urabe@mastodon.online](https://mastodon.online/@s_urabe)
+- Twitter: [@s_urabe](https://twitter.com/s_urabe)
