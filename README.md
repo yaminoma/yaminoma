@@ -1,8 +1,9 @@
 # Shumpei Urabe (yaminoma)
 
-[![website](https://img.shields.io/badge/Website-www.meteor.ne.jp-blue?style=flat-square)](https://www.meteor.ne.jp)
+Hi, I'm Shumpei Urabe — a technology leader and multimedia specialist with expertise in video coding, acoustic signal processing, and large-scale system architecture.
+I work across industries as a CTO, technical advisor, and engineer, helping companies build high-performance streaming, broadcasting, and AI-driven platforms.
 
-Hi, I'm Shumpei Urabe. I'm a multimedia specialist, specializing in video coding and acoustic signal processing.
-I have no programming language preference, but I'm interested in multithreaded processing and memory management.
-I usually work for a Japanese broadcasting company developing distribution systems.
-I like to challenge myself to do things that no one has tried before!
+I enjoy tackling complex challenges — from optimizing multithreaded processing and memory management to scaling distributed systems — and delivering solutions that push boundaries.
+My past work includes leading infrastructure and product development for live streaming platforms, voice processing systems, and enterprise-grade content distribution.
+
+Outside of work, I love experimenting with ideas that no one has tried before, blending creativity with engineering to bring them to life.
